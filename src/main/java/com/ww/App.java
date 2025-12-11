@@ -4,8 +4,14 @@ package com.ww;
  * Hello world!
  */
 public class App {
-    public static int test() {
-        return 10;
+
+    private App(){
+
+    }
+
+
+    public int test(int a) {
+        return ++a;
     }
 
 
