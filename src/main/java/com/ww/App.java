@@ -4,9 +4,11 @@ package com.ww;
  * Hello world!
  */
 public class App {
-    public static void main(String[] args) {
+    public static int test(String[] args) {
 
         int b= 100;
-//        System.out.println(b);
+        return b;
     }
+
+
 }
