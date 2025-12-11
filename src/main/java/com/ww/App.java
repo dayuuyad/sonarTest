@@ -6,7 +6,7 @@ package com.ww;
 public class App {
     public static void main(String[] args) {
 
-        int b= 100/1;
-        System.out.println(b);
+        int b= 100;
+//        System.out.println(b);
     }
 }
